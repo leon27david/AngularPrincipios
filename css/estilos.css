@@ -1,0 +1,18 @@
+body {
+	background:blue;
+	color:fff;
+     }
+
+	 p{
+	 font-family : comic sans;
+	 font-weight : 400;
+	 text-shadow : 1px 1px 1px ;
+	 }
+
+	 img{
+		 border-radius: 50%;
+	 }
+
+	 li{
+		 list-style-type: lower-alpha;
+	 }
